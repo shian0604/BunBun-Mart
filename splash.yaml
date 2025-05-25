@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#D3CAAB"
+  image: assets/logo/2.0x/BunBunMartLogo.png
+  android_gravity: center
+  ios_content_mode: center
+
+  android: true
+  ios: true
+  web: true
+  fullscreen: true

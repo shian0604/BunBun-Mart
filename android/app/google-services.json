@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "92798913031",
+    "project_id": "bunbun-mart",
+    "storage_bucket": "bunbun-mart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92798913031:android:0ffa37cc453ba6fb57f8a2",
+        "android_client_info": {
+          "package_name": "com.example.bunbunmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92798913031-n0mi360hp8f3hhloqu5avi2t08qcb403.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bunbunmart",
+            "certificate_hash": "c884a489f058fab6ee3a155a63feb930674dd206"
+          }
+        },
+        {
+          "client_id": "92798913031-tp3fg3elkjcuorklh6dr5lmr9bnea74n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp5N74vmMDwXVdb_qhKPhBh_AqOqtNWT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92798913031-tp3fg3elkjcuorklh6dr5lmr9bnea74n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92798913031-0b12njicpl27oa2630bu90qtkc5tg9tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bunny.bunbunmart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
