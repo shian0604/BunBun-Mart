@@ -1,16 +1,29 @@
-# bunbunmart
+# 🐰 BunBunMart - E-Commerce App for Fur Parents
 
-A new Flutter project.
+BunBunMart is a Flutter-based e-commerce application specially designed for **fur parents** who want the best for their pets. Whether you're a bunny enthusiast, a dog lover, or a cat cuddler, BunBunMart brings all your pet needs to one convenient place. ❤️
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
+- 🐶 **Pet-Centric Product Listings**: Discover a wide range of pet food, toys, grooming items, and accessories.
+- 👤 **Buyer & Seller Registration/Login**: Seamlessly switch between buyer and seller modes.
+- 🛒 **Smart Cart System**: Add, remove, and manage products with a user-friendly cart experience.
+- 🏠 **Personalized Dashboards**: Buyers see tailored product suggestions, while sellers manage their inventory.
+- 🐾 **Profile Management**: Add your profile picture and multiple delivery addresses.
+- 💬 **Product Reviews & Ratings**: Share experiences with other fur parents.
+- 📦 **Order Management**: Track your orders from checkout to delivery.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code
+- An Android or iOS device/emulator (Android Studio is reccomended)
+
+### Installation
+
+```bash
+git clone https://github.com/yourusername/bunbunmart.git
+cd bunbunmart
+flutter pub get
+flutter run
