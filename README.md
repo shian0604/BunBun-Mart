@@ -2,6 +2,15 @@
 
 BunBunMart is a Flutter-based e-commerce application specially designed for **fur parents** who want the best for their pets. Whether you're a bunny enthusiast, a dog lover, or a cat cuddler, BunBunMart brings all your pet needs to one convenient place. ❤️
 
+## ✨ Group Members
+₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚
+- Ramos Kristel
+- Tanyag Johann Francois
+- Viar Althea Maxene
+
+## 📌 Project Documentation (PPT, Ads, Apk, Documentation, Survey Results (Excel), Summary of Member Contribution (Excel))
+- https://drive.google.com/drive/folders/1YrsQ3kVW0lhmFivTYAdTakulXwob8Q24?usp=sharing
+
 ## 📱 Features
 
 - 🐶 **Pet-Centric Product Listings**: Discover a wide range of pet food, toys, grooming items, and accessories.
